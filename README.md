@@ -8,3 +8,6 @@ with the provided JUnit test plus four additional unit tests in
 [`ps0/src/rules/RulesOf6005Test.java`](ps0/src/rules/RulesOf6005Test.java).
 
 Submitted by Muhammad Musa Nadeem.
+
+Git commands practiced for this lab: `init`, `status`, `add`, `commit`, `log`,
+`diff`, `branch`, `checkout`/`switch`, `merge`, and `push`.
